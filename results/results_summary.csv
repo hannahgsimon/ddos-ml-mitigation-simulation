@@ -1,0 +1,13 @@
+Strategy,Defense,Throughput
+targeted,none,11.266666666666667
+targeted,static,134.1375
+targeted,adaptive,161.09596577808037
+targeted,ml,133.65416666666667
+distributed,none,97.31666666666666
+distributed,static,121.00416666666666
+distributed,adaptive,120.0358843537415
+distributed,ml,116.79166666666667
+random_burst,none,43.016666666666666
+random_burst,static,173.20833333333334
+random_burst,adaptive,168.69191791802797
+random_burst,ml,174.38333333333333
